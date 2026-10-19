@@ -9,6 +9,9 @@ English Trustpilot reviews for Amazon.com on October 17, 2026. The first
 review is from August 27, 2007, while the last one is from October 17,
 2026. This amounts to 32,666 reviews.
 
+All rights to the data belong to Trustpilot. The data should not be used
+for commercial purposes.
+
 ## 1.1 Variables
 
 The following seven variables are available:
