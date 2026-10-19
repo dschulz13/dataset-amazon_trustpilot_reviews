@@ -1,6 +1,7 @@
 ---
 output: 
-  bookdown::github_document2
+  bookdown::github_document2:
+    number_sections: false
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
