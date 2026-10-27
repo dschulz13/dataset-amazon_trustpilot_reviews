@@ -25,7 +25,7 @@ The following eight variables are available:
 
 1. `User_ID`: an `int` column, giving the unique user ID; the same ID means that reviews were written by the same user.
 
-2. `Review_Date`: a `chr` variable giving the exact publishing time point of the review in `%Y-%m-%d %H:%H:%S` format (datetime to be interpreted as UTC).
+2. `Review_Date`: a `chr` variable giving the exact publishing time point of the review in `%Y-%m-%d %H:%M:%S` format (datetime to be interpreted as UTC).
 
 3. `Experience_Date`: a `chr` column giving the date in `%Y-%m-%d` format, on which the experience the review is written about was experienced; this date is entered manually by the review author.
 

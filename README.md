@@ -20,7 +20,7 @@ The following eight variables are available:
     means that reviews were written by the same user.
 
 2.  `Review_Date`: a `chr` variable giving the exact publishing time
-    point of the review in `%Y-%m-%d %H:%H:%S` format (datetime to be
+    point of the review in `%Y-%m-%d %H:%M:%S` format (datetime to be
     interpreted as UTC).
 
 3.  `Experience_Date`: a `chr` column giving the date in `%Y-%m-%d`
